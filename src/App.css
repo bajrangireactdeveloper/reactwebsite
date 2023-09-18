@@ -1,0 +1,9 @@
+@import url('./var.css');
+
+
+.app{
+    background: var(--color_bg);
+    width: 100%;
+    height: 100%;
+    color: var(--color_para_txt);
+  }
