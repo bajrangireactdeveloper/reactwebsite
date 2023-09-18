@@ -5,11 +5,12 @@ export default function Navbar() {
 
 
   return (
-    // <div>
-    //   <h2>Navbar</h2>
-    //   <img src="/assets/nav/menuIcon.png" alt='toggle menu'/>
-    // </div>
+  
     <>
+      {/* <div>
+      <h2>Navbar</h2>
+      <img src="/assets/nav/menuIcon.png" alt='toggle menu'/>
+     </div> */}
      <nav className="navbar navbar-expand-lg navbar-light">
   <div className="container">
     <Link className="navbar-brand text-white fw-bold" to="/">Website</Link>
